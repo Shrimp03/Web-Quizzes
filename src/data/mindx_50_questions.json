@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "Kiểm tra chuyên môn đầu vào kéo dài bao lâu?",
+    "options": [
+      "30 phút",
+      "40 phút",
+      "45 phút",
+      "60 phút"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kiểm tra chuyên môn đầu vào được thực hiện trong 45 phút.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 2,
+    "question": "Một đề kiểm tra chuyên môn đầu vào có bao nhiêu câu?",
+    "options": [
+      "25",
+      "30",
+      "40",
+      "45"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tài liệu nêu 40 câu/đề.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 3,
+    "question": "Ứng viên phải dự thính tối thiểu bao nhiêu buổi?",
+    "options": [
+      "3 buổi",
+      "4 buổi",
+      "5 buổi",
+      "10 buổi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đào tạo tại cơ sở yêu cầu dự thính tối thiểu 5 buổi.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 4,
+    "question": "Thời gian thử việc TA tối thiểu là bao lâu?",
+    "options": [
+      "4 tuần",
+      "8 tuần",
+      "12 tuần",
+      "1 khóa, 14 tuần"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ứng viên thử việc vị trí trợ giảng ít nhất 1 khóa, tương đương 14 tuần.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 5,
+    "question": "Đánh giá TA được thực hiện theo mốc nào?",
+    "options": [
+      "Mỗi 2 buổi",
+      "Mỗi 4 buổi",
+      "Mỗi 5 buổi",
+      "Chỉ cuối khóa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tài liệu nêu đánh giá sau mỗi 4 buổi kể từ lúc bắt đầu TA.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 6,
+    "question": "Đâu KHÔNG phải Core Value được nêu trong tài liệu?",
+    "options": [
+      "Sự đổi mới",
+      "Chuyên môn",
+      "Tinh thần trách nhiệm",
+      "Cạnh tranh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ba Core Value là Sự đổi mới, Chuyên môn, Tinh thần trách nhiệm.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "question": "Techkids chính thức đổi tên thành MindX vào năm nào?",
+    "options": [
+      "2015",
+      "2018",
+      "2019",
+      "2021"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tháng 4/2019 Techkids đổi tên thành MindX.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 8,
+    "question": "Trong tên MindX, chữ X được giải thích là gì?",
+    "options": [
+      "Experience",
+      "Extraordinary",
+      "Excellence",
+      "Experiment"
+    ],
+    "correctIndex": 1,
+    "explanation": "X là viết tắt của extraordinary.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 9,
+    "question": "Ai giữ vai trò CTO trong đội ngũ sáng lập được nêu?",
+    "options": [
+      "Nguyễn Thanh Tùng",
+      "Nguyễn Thị Thu Hà",
+      "Nguyễn Quang Huy",
+      "Nguyễn Văn Huy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nguyễn Quang Huy được nêu là CTO.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 10,
+    "question": "Vấn đề về giáo trình, chương trình và chất lượng lớp nên liên hệ ai?",
+    "options": [
+      "Sale",
+      "Leader/TE",
+      "CS",
+      "HR"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leader/TE phụ trách các vấn đề chuyên môn, giáo trình và chất lượng lớp.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 11,
+    "question": "Vấn đề về công lương và duyệt lịch nghỉ nên liên hệ ai?",
+    "options": [
+      "Teaching Coordinator (TC/TE)",
+      "Sale",
+      "CS",
+      "CTO"
+    ],
+    "correctIndex": 0,
+    "explanation": "TC/TE xử lý các vấn đề công lương, lịch nghỉ và đổi giáo viên.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 12,
+    "question": "Giáo viên cần có mặt trước giờ booking bao lâu?",
+    "options": [
+      "5 phút",
+      "10 phút",
+      "15 phút",
+      "30 phút"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quy định nơi làm việc yêu cầu có mặt trước 15 phút.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 13,
+    "question": "Kênh trao đổi công việc chính thức được khuyến nghị là gì?",
+    "options": [
+      "Messenger",
+      "Zalo nhóm",
+      "Email",
+      "SMS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tài liệu khuyến nghị dùng email làm kênh trao đổi chính thức.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 14,
+    "question": "Kỹ sư Robot nhí (KIRO) dành cho độ tuổi nào?",
+    "options": [
+      "4+",
+      "6+",
+      "8+",
+      "10+"
+    ],
+    "correctIndex": 0,
+    "explanation": "KIRO dành cho nhóm 4+.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 15,
+    "question": "Nhập môn Robotics (PRE) sử dụng bộ kit nào?",
+    "options": [
+      "VEX IQ",
+      "VEX GO",
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "correctIndex": 1,
+    "explanation": "PRE gắn với VEX GO.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 16,
+    "question": "Sáng tạo Robot (SEMI) dành cho độ tuổi nào?",
+    "options": [
+      "4+",
+      "6+",
+      "8+",
+      "10+"
+    ],
+    "correctIndex": 3,
+    "explanation": "SEMI dành cho nhóm 10+.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 17,
+    "question": "Scratch Creator bắt đầu từ độ tuổi nào?",
+    "options": [
+      "6+",
+      "8+",
+      "9+",
+      "11+"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scratch Creator dành cho học sinh 9+.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 18,
+    "question": "Game Maker chiêu sinh mới từ độ tuổi nào?",
+    "options": [
+      "9+",
+      "10+",
+      "11+",
+      "14+"
+    ],
+    "correctIndex": 2,
+    "explanation": "Game Maker chiêu sinh mới từ 11+.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 19,
+    "question": "Web Developer chiêu sinh mới từ độ tuổi nào?",
+    "options": [
+      "11+",
+      "12+",
+      "13+",
+      "14+"
+    ],
+    "correctIndex": 3,
+    "explanation": "Web Developer chiêu sinh mới từ 14+.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 20,
+    "question": "Năm 3 của lộ trình Coding chủ yếu dùng ngôn ngữ nào?",
+    "options": [
+      "GML",
+      "Python",
+      "JavaScript",
+      "Scratch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Năm 3 - Lập trình ứng dụng dùng Python.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 21,
+    "question": "Năm 4 của lộ trình Coding chủ yếu dùng ngôn ngữ nào?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "Scratch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Năm 4 - Phát triển Website dùng JavaScript.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 22,
+    "question": "Thời lượng một khóa Coding được nêu là bao nhiêu?",
+    "options": [
+      "60 giờ",
+      "72 giờ",
+      "84 giờ",
+      "120 giờ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Các khóa Coding trong tài liệu ghi 84 giờ/khóa.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 23,
+    "question": "Một buổi học MindX thông thường kéo dài bao lâu?",
+    "options": [
+      "60 phút",
+      "90 phút",
+      "120 phút",
+      "150 phút"
+    ],
+    "correctIndex": 2,
+    "explanation": "Buổi học thông thường kéo dài 120 phút.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 24,
+    "question": "Lớp cho nhóm tuổi dưới tiểu học thường kéo dài bao lâu?",
+    "options": [
+      "60 phút",
+      "90 phút",
+      "105 phút",
+      "120 phút"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nhóm dưới tiểu học có thời lượng 90 phút/buổi.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 25,
+    "question": "Tần suất học tiêu chuẩn được nêu trong tài liệu là gì?",
+    "options": [
+      "1 buổi/tuần",
+      "2 buổi/tuần",
+      "3 buổi/tuần",
+      "5 buổi/tuần"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tài liệu nêu lịch học tiêu chuẩn 1 buổi/tuần.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 26,
+    "question": "Trạng thái Class nào được tính vào Attendance Checked?",
+    "options": [
+      "Registered",
+      "Cancelled",
+      "Attended hoặc Late arrived",
+      "Waiting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Class được tính khi ở trạng thái Attended hoặc Late arrived.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 27,
+    "question": "Office Hour được tính công khi ở trạng thái nào?",
+    "options": [
+      "Pending",
+      "Confirmed",
+      "Open",
+      "Processing"
+    ],
+    "correctIndex": 1,
+    "explanation": "OH được ghi nhận khi trạng thái là Confirmed.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 28,
+    "question": "Nếu thao tác trên hệ thống sau 22:00, Zalo OA gửi thông báo lúc nào?",
+    "options": [
+      "00:00",
+      "Ngay lập tức",
+      "06:00 ngày hôm sau",
+      "08:00 ngày hôm sau"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thông báo sau 22:00 sẽ được gửi lúc 06:00 ngày hôm sau.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 29,
+    "question": "Nguyên tắc trao đổi với phụ huynh nào đúng?",
+    "options": [
+      "Chỉ nêu khuyết điểm",
+      "Ghi nhận và góp ý",
+      "Không đặt câu hỏi",
+      "Không đưa ra đánh giá"
+    ],
+    "correctIndex": 1,
+    "explanation": "Một nguyên tắc chính là 'Ghi nhận và góp ý'.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 30,
+    "question": "Giáo viên cần tham gia cộng đồng học thuật như thế nào?",
+    "options": [
+      "Không bắt buộc",
+      "Ít nhất 1 nhóm bất kỳ",
+      "Ít nhất 1 nhóm đúng khối đang làm việc",
+      "Phải tham gia cả 4 nhóm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Giáo viên cần tham gia tối thiểu 1 khối tương ứng với khối đang làm việc.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 31,
+    "question": "Slogan/nhiệm vụ được nêu của MindX là gì?",
+    "options": [
+      "Learning for Everyone",
+      "Nurturing Global Pioneer in Tech",
+      "Technology for All",
+      "Build the Future"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tài liệu nêu 'Nurturing Global Pioneer in Tech'.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 32,
+    "question": "Hệ sinh thái MindX trong tài liệu gồm bao nhiêu mảng chính?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ba mảng là MindX Technology School, MindX Jobs và MindX Startup Space.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 33,
+    "question": "Mùa thu năm 2015, tổ chức tiền thân của MindX có tên là gì?",
+    "options": [
+      "MindX Jobs",
+      "Techkids",
+      "X-School",
+      "TechMind"
+    ],
+    "correctIndex": 1,
+    "explanation": "Techkids ra đời vào mùa thu năm 2015.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 34,
+    "question": "Cuối năm 2021, MindX hoàn tất vòng gọi vốn Series A khoảng bao nhiêu?",
+    "options": [
+      "1 triệu USD",
+      "3 triệu USD",
+      "10 triệu USD",
+      "15 triệu USD"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tài liệu nêu hơn 3 triệu USD Series A.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 35,
+    "question": "Đầu năm 2023, MindX công bố vòng Series B bao nhiêu?",
+    "options": [
+      "3 triệu USD",
+      "5 triệu USD",
+      "10 triệu USD",
+      "15 triệu USD"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tài liệu nêu 15 triệu USD Series B.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 36,
+    "question": "Đánh giá kết quả định kỳ giáo viên được nêu vào tháng nào?",
+    "options": [
+      "Tháng 3 và 9",
+      "Tháng 6 và 12",
+      "Tháng 1 và 7",
+      "Mỗi tháng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lộ trình nêu đánh giá định kỳ vào tháng 6 và tháng 12.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 37,
+    "question": "Đánh giá năng lực chuyên môn định kỳ được nêu với tần suất nào?",
+    "options": [
+      "Mỗi tháng",
+      "6 tháng/lần",
+      "1 năm/lần",
+      "2 năm/lần"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tài liệu nêu kiểm tra chuyên môn và quy trình định kỳ 1 năm/lần.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 38,
+    "question": "Đào tạo sư phạm nâng cao cho giáo viên được tổ chức theo tần suất nào?",
+    "options": [
+      "Hàng tuần",
+      "Hàng tháng",
+      "Hàng quý",
+      "Hàng năm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Giáo viên học các chuyên đề sư phạm nâng cao hàng tháng.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 39,
+    "question": "Có bao nhiêu mô hình giảng dạy chính được nêu?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ba mô hình: Offline, Online, Hybrid.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 40,
+    "question": "Điều kiện quan trọng để giáo viên nhận thông tin từ Zalo OA là gì?",
+    "options": [
+      "Có email Gmail",
+      "SĐT trên hệ thống là số dùng Zalo",
+      "Có tài khoản Facebook",
+      "Có laptop cá nhân"
+    ],
+    "correctIndex": 1,
+    "explanation": "Số điện thoại đăng ký trên hệ thống phải là số sử dụng Zalo.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 41,
+    "question": "Denise là hệ thống dành chủ yếu cho đối tượng nào?",
+    "options": [
+      "Chỉ HR",
+      "Học viên học trực tuyến",
+      "Chỉ kế toán",
+      "Chỉ quản lý"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denise là hệ thống học tập trực tuyến dành cho học viên.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 42,
+    "question": "Có bao nhiêu cộng đồng học thuật được liệt kê trong Lesson 4?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Có 4 cộng đồng: Scratch & Robotics, Gamemaker, Python/CS, Art Design.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 43,
+    "question": "Đâu là một mô hình giảng dạy được nêu trong Lesson 2?",
+    "options": [
+      "Hybrid (Off-Onl)",
+      "Only Remote",
+      "Self-study only",
+      "Bootcamp only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Các mô hình gồm Offline, Online và Hybrid (Off-Onl).",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 44,
+    "question": "Little Artist phù hợp độ tuổi nào?",
+    "options": [
+      "4-6",
+      "6-9",
+      "8-11",
+      "10-12"
+    ],
+    "correctIndex": 0,
+    "explanation": "Little Artist được nêu cho độ tuổi 4-6.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 45,
+    "question": "Visual Thinking phù hợp độ tuổi nào?",
+    "options": [
+      "4-6",
+      "6-9",
+      "8-11",
+      "14-17"
+    ],
+    "correctIndex": 2,
+    "explanation": "Visual Thinking được nêu cho độ tuổi 8-11.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 46,
+    "question": "VEX IQ Robotics Kit dành cho học sinh từ độ tuổi nào trở lên?",
+    "options": [
+      "6 tuổi",
+      "8 tuổi",
+      "9 tuổi",
+      "10 tuổi"
+    ],
+    "correctIndex": 3,
+    "explanation": "VEX IQ dành cho học sinh từ 10 tuổi trở lên.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 47,
+    "question": "App Producer được tuyển sinh như thế nào theo tài liệu?",
+    "options": [
+      "Chiêu sinh mới từ 9+",
+      "Chiêu sinh mới từ 11+",
+      "Học tiếp Game Maker, chưa chiêu sinh mới",
+      "Chỉ dành cho người lớn"
+    ],
+    "correctIndex": 2,
+    "explanation": "App Producer là môn tiếp sau Game Maker và chưa áp dụng chiêu sinh mới.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 48,
+    "question": "Computer Science được mô tả như thế nào?",
+    "options": [
+      "Môn đầu tiên của Coding",
+      "Môn tiếp sau Web, chưa chiêu sinh mới",
+      "Chỉ dành cho 4+",
+      "Thuộc Robotics"
+    ],
+    "correctIndex": 1,
+    "explanation": "Computer Science là môn tiếp sau Web và chưa áp dụng chiêu sinh mới.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 49,
+    "question": "Trong trao đổi sau trial, quy trình ví dụ theo thứ tự nào?",
+    "options": [
+      "Đặt câu hỏi → Góp ý → Giới thiệu",
+      "Giới thiệu → Nhận xét & góp ý → Đặt câu hỏi",
+      "Góp ý → Giới thiệu → Kết thúc",
+      "Giới thiệu → Bán khóa học → Kết thúc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ví dụ trong tài liệu theo trình tự Giới thiệu → Nhận xét & góp ý → Đặt câu hỏi.",
+    "timeSeconds": 30,
+    "image": ""
+  },
+  {
+    "id": 50,
+    "question": "Đâu là một mục tiêu của lộ trình Coding?",
+    "options": [
+      "Tư duy máy tính và thuật toán",
+      "Chỉ học thuộc cú pháp",
+      "Không làm dự án",
+      "Chỉ luyện thi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lộ trình Coding nhấn mạnh tư duy máy tính, thuật toán, sáng tạo và giải quyết vấn đề.",
+    "timeSeconds": 30,
+    "image": ""
+  }
+]
